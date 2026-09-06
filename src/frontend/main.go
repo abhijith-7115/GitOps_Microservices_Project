@@ -13,6 +13,7 @@
 // limitations under the License.
 //
 
+// CI trigger: test pipeline
 package main
 
 import (
