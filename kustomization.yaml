@@ -8,7 +8,7 @@ resources:
 helmCharts:
   - name: onlineboutique
     repo: oci://ghcr.io/abhijith-7115
-    version: 0.10.4
+    version: v0.10.4
     releaseName: boutique-app
     namespace: boutique-app
     valuesFile: helm-chart/values.yaml
